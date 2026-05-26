@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am an undergraduate Computing Science student at the University of Alberta, currently building my programming foundation through Python projects, code refactoring, GitHub practice, and small project reading.
+I am an undergraduate Computing Science student at the University of Alberta, will be graduating in 2029. Currently building my programming foundation through Python projects, code refactoring, GitHub practice, and small project reading.
 
 I am especially interested in:
 
