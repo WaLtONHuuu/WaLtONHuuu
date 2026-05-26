@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chen Hu 👋</h1>
 
 <p align="center">
-  First-year Computer Science student at the University of Alberta  
+  Computer Science student at the University of Alberta · Expected Graduation: 2029  
   <br>
   Learning Python, Git/GitHub, software project structure, and beginner AI/ML
 </p>
