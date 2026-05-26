@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a first-year Computer Science student currently building my programming foundation through Python projects, code refactoring, GitHub practice, and small project reading.
+I am an undergraduate Computing Science student at the University of Alberta, currently building my programming foundation through Python projects, code refactoring, GitHub practice, and small project reading.
 
 I am especially interested in:
 
@@ -19,6 +19,8 @@ I am especially interested in:
 - Data Science and AI/ML
 - Reading and improving small open-source projects
 - Building clean and understandable beginner projects
+
+I have also worked with Jupyter Notebook, pandas, matplotlib, basic NumPy, introductory scikit-learn, C programming, and basic SQL.
 
 ---
 
@@ -29,7 +31,11 @@ I am especially interested in:
 - Code refactoring
 - Reading small GitHub projects
 - JSON data storage
-- Basic machine learning concepts
+- Data analysis with pandas and NumPy
+- Data visualization with matplotlib
+- Basic machine learning with scikit-learn
+- SQL fundamentals
+- C practice
 
 ---
 
@@ -60,9 +66,10 @@ What I practiced:
 - Reading other people's code
 - Writing project reading notes
 - Rebuilding small features as demos
-- Understanding JSON storage through a todo app demo
 
 Repository: `Python-Project-Study`
+
+Future demos may include small projects related to data analysis, visualization, and beginner machine learning using pandas, NumPy, matplotlib, and scikit-learn.
 
 ---
 
@@ -71,10 +78,22 @@ Repository: `Python-Project-Study`
 ### Languages
 
 - Python
+- C
+- SQL
 - Markdown
 - Basic HTML
 
-### Tools
+### Python Libraries & Tools
+
+- Jupyter Notebook
+- pandas
+- NumPy
+- matplotlib
+- scikit-learn basics
+- json
+- os
+
+### Developer Tools
 
 - Git
 - GitHub
@@ -82,14 +101,17 @@ Repository: `Python-Project-Study`
 - PyCharm
 - VS Code
 
-### Python Topics
+### Concepts
 
 - Functions
 - Classes and objects
 - File handling
-- JSON
-- Basic testing
+- JSON data storage
 - Command-line programs
+- Basic testing
+- Code refactoring
+- Basic data analysis
+- Basic machine learning
 
 ---
 
@@ -97,8 +119,10 @@ Repository: `Python-Project-Study`
 
 - Improve my Python project structure
 - Read and analyze more small GitHub projects
-- Build beginner-level AI/ML projects
-- Develop a stronger GitHub portfolio
+- Build beginner-level data science and AI/ML projects
+- Practice pandas, NumPy, matplotlib, and scikit-learn through small demos
+- Strengthen my Git and GitHub workflow
+- Build a stronger GitHub portfolio
 - Prepare for future internship opportunities
 
 ---
